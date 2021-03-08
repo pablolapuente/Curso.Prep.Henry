@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkOlFXMsPWg1B7NZtkYlTW7UqXM7RKLTVV8w&usqp=CAU);
+    background-repeat: repeat-x;
+}
+h1 {
+    color: red
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 500;
+    height: 600;
+    background-color: tomato;
+    border: 10px dashed;
+    border-color: teal;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
